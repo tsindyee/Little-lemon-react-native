@@ -6,22 +6,37 @@ The Little Lemon App is a cross-platform mobile application built with **React N
 This project is an extension of the coursework from the **Coursera Meta Professional Certificate in iOS Development**. While inspired by the course material, this app incorporates unique design choices, additional features, and custom UI elements, demonstrating advanced skills beyond the original coursework.
 
 ## 📱 App Screenshots
-- Welcome Screen
-![Welcome Screen](./assets/screenshots/welcome.png)
-![Welcome Screen Dark](./assets/screenshots/welcome-dark.png)
-- Login Screen
-![Login Screen](./assets/screenshots/login.png)
-![Login Screen Dark](./assets/screenshots/login-dark.png)
-- Menu Items Screen
-![Menu Screen](./assets/screenshots/menu.png)
-![Menu Screen Dark](./assets/screenshots/menu-dark.png)
-- Subscription Screen
-![Subscribe Screen 1](./assets/screenshots/subscribe1.png)
-![Subscribe Screen Dark 1](./assets/screenshots/subscribe-dark1.png)
-![Subscribe Screen 2](./assets/screenshots/subscribe2.png)
-![Subscribe Screen Dark 2](./assets/screenshots/subscribe-dark2.png)
-![Subscribe Screen 3](./assets/screenshots/subscribe3.png)
-![Subscribe Screen Dark 3](./assets/screenshots/subscribe-dark3.png)
+- Welcome Screen  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./assets/screenshots/welcome.png" alt="Welcome Screen" width="300"/>
+  <img src="./assets/screenshots/welcome-dark.png" alt="Welcome Screen Dark" width="300"/>
+</div>
+
+- Login Screen  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./assets/screenshots/login.png" alt="Login Screen" width="300"/>
+    <img src="./assets/screenshots/login-dark.png" alt="Login Screen Dark" width="300"/>
+</div>
+
+- Menu Items Screen  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./assets/screenshots/menu.png" alt="Menu Screen" width="300"/>
+    <img src="./assets/screenshots/menu-dark.png" alt="Menu Screen Dark" width="300"/>
+</div>
+- Subscription Screen  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./assets/screenshots/sunscribe1.png" alt="Subscribe Screen 1" width="300"/>
+    <img src="./assets/screenshots/subscribe-dark1.png" alt="Subscribe Screen Dark 1" width="300"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./assets/screenshots/sunscribe2.png" alt="Subscribe Screen 2" width="300"/>
+    <img src="./assets/screenshots/subscribe-dark2.png" alt="Subscribe Screen Dark 2" width="300"/>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./assets/screenshots/sunscribe3.png" alt="Subscribe Screen 3" width="300"/>
+    <img src="./assets/screenshots/subscribe-dark3.png" alt="Subscribe Screen Dark 3" width="300"/>
+</div>
+
 ## 🚀 Features
 - **Tab Navigation:** Provides easy access to the `Welcome`, `Login`, and `Menu` screens.
 - **Stack Navigation:** Allows seamless navigation to the `Subscribe` screen.
