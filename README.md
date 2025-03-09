@@ -3,8 +3,6 @@
 ## Project Overview
 The Little Lemon App is a cross-platform mobile application built with **React Native** and **Expo**. This app is designed to showcase a Mediterranean bistro's brand and offer a seamless experience through multiple screens, including a Welcome page, Login page, Menu items list, and a Subscription page. The app integrates both **Stack Navigation** and **Tab Navigation** to ensure a smooth and user-friendly experience.
 
-This project is an extension of the coursework from the **Coursera Meta Professional Certificate in iOS Development**. While inspired by the course material, this app incorporates unique design choices, additional features, and custom UI elements, demonstrating advanced skills beyond the original coursework.
-
 ## 📱 App Screenshots
 - Welcome Screen  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -103,3 +101,6 @@ npx expo start
 ├── App.js
 └── app.json
 ```
+
+## Declaration
+This project is an extension of the coursework from the **Coursera Meta Professional Certificate in iOS Development**. While inspired by the course material, this app incorporates unique design choices, additional features, and custom UI elements, demonstrating advanced skills beyond the original coursework.
